@@ -44,7 +44,8 @@ The scraper extracts product data across multiple categories using:
 - Designed for daily product updates
 -Suitable for data analysis & BI dashboards
 
-PythonAnywhere Deployment & Scheduling
+## PythonAnywhere Deployment & Scheduling
+
 This script is perfect for automated daily execution on PythonAnywhere:
 
 1. Upload to PythonAnywhere
