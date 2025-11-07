@@ -25,9 +25,6 @@ The scraper extracts product data across multiple categories using:
 ---
 
 ## 🔄 How It Works
-
-```mermaid
-flowchart LR
 A[Load Category List] --> B[Launch Selenium WebDriver]
 B --> C[Scroll Through Product Grid]
 C --> D[Scrape Product Details]
