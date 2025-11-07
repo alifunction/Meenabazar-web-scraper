@@ -1,6 +1,3 @@
-# Meenabazar-web-scraper
-Automated Selenium-based web scraper for MeenaBazarOnline.com — extracts product information across all categories, including names, prices, image links, and product URLs. Generates structured datasets ready for analytics and database ingestion.
-
 # 🛒 MeenaBazar Online Web Scraper
 
 This repository contains a **Python-based web scraper** designed to collect product information from **MeenaBazarOnline.com**, a major e-commerce platform in Bangladesh.
