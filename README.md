@@ -41,7 +41,8 @@ The scraper extracts product data across multiple categories using:
 ---
 
 ## Output Structure
-###Data/
+
+### Data/
 
     ├── Fruits & Vegetables.csv
  
