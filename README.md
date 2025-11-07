@@ -42,15 +42,15 @@ The scraper extracts product data across multiple categories using:
 
 ## Output Structure
 Data/
- ├── Fruits & Vegetables.csv
+    ├── Fruits & Vegetables.csv
  
- ├── Meat & Fish.csv
+    ├── Meat & Fish.csv
  
- ├── Dairy & Eggs.csv
+    ├── Dairy & Eggs.csv
  
- ├── Bakery & Snacks.csv
+    ├── Bakery & Snacks.csv
  
- └── ...
+    └── ...
 
 ---
 
