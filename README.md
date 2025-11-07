@@ -38,11 +38,25 @@ The scraper extracts product data across multiple categories using:
 
 6. Export as CSV (one file per category)
 
+---
+
+## Output Structure
+Data/
+ ├── Fruits & Vegetables.csv
+ ├── Meat & Fish.csv
+ ├── Dairy & Eggs.csv
+ ├── Bakery & Snacks.csv
+ └── ...
+
+---
+
 ## 🕒 Runtime Performance
 - 1 hour 20 minutes for a full sweep of all categories
 (Actual speed depends on network and machine performance)
 - Designed for daily product updates
 -Suitable for data analysis & BI dashboards
+
+---
 
 ## PythonAnywhere Deployment & Scheduling for daily execution
 
