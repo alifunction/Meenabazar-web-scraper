@@ -24,16 +24,19 @@ The scraper extracts product data across multiple categories using:
 
 ---
 
-## 🔄 How It Works
-A[Load Category List] --> B[Launch Selenium WebDriver]
+## 🔄 Data Collection Workflow
 
-B --> C[Scroll Through Product Grid]
+1. Load list of category URLs
 
-C --> D[Scrape Product Details]
+2. Launch Selenium browser instance
 
-D --> E[Store in Pandas DataFrame]
+3. Scroll dynamically until all products are visible
 
-E --> F[Export to CSV per category]
+4. Extract structured product details
+
+5. Store results in Pandas DataFrame
+
+6. Export as CSV (one file per category)
 
 ## 🕒 Runtime Performance
 - 1 hour 20 minutes for a full sweep of all categories
