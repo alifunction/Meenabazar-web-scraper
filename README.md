@@ -26,9 +26,13 @@ The scraper extracts product data across multiple categories using:
 
 ## 🔄 How It Works
 A[Load Category List] --> B[Launch Selenium WebDriver]
+
 B --> C[Scroll Through Product Grid]
+
 C --> D[Scrape Product Details]
+
 D --> E[Store in Pandas DataFrame]
+
 E --> F[Export to CSV per category]
 
 ## 🕒 Runtime Performance
