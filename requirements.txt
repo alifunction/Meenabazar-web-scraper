@@ -1,3 +1,7 @@
+### Version
+python >= 3.13.7
+ipykernel >= 7.1.0
+
 ### Web-scraping
 selenium >= 4.38.0 >= https://www.selenium.dev
 
