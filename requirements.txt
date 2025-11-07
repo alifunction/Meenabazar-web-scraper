@@ -1,0 +1,5 @@
+### Web-scraping
+selenium >= 4.38.0 >= https://www.selenium.dev
+
+### For Dataset making
+pandas >= 2.3.3 >= https://pandas.pydata.org
