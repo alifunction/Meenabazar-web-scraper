@@ -14,9 +14,7 @@ The scraper extracts product data across multiple categories using:
 - Automatically scrapes *every product* under each category
 - Extracts:
   - Product Name
-  - Category Name
   - Current Price & Discount Price (if available)
-  - Product Link
 - Auto-scrolls pages until all products are fully loaded
 - Handles large DOM structures and dynamic content
 - Produces **clean, structured datasets** ready for analytics
